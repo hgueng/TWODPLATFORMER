@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6cb770d2-b058-44ac-a0e7-d36e6c614190" name="Changes" comment="First Test">
+    <list default="true" id="6cb770d2-b058-44ac-a0e7-d36e6c614190" name="Changes" comment="Hi test 2!">
+      <change afterPath="$PROJECT_DIR$/src/main/GamePanel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Game.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/GameWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/GameWindow.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/MainClass.java" afterDir="false" />
     </list>
@@ -82,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676546992247</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Hi test 2!">
+      <created>1676547419752</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1676547419752</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -98,6 +107,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Test" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Test" />
+    <MESSAGE value="Hi test 2!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hi test 2!" />
   </component>
 </project>

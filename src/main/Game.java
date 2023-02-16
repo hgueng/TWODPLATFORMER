@@ -3,7 +3,10 @@ package main;
 public class Game {
 
     public Game(){
-        System.out.println("I am alive aswell");
+        // Create a Game Window object
+        GameWindow gameWindow;
+        gameWindow = new GameWindow();
+
     }
 
 }
