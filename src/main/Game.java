@@ -1,11 +1,15 @@
 package main;
 
 public class Game {
+    private GameWindow gameWindow;
+    private GamePanel gamePanel;
 
     public Game(){
         // Create a Game Window object
-        GameWindow gameWindow;
-        gameWindow = new GameWindow();
+        gamePanel = new GamePanel();
+        gameWindow = new GameWindow(gamePanel);
+        gamePanel.requestFocus();
+
 
     }
 

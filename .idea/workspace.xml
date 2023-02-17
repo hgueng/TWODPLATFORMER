@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6cb770d2-b058-44ac-a0e7-d36e6c614190" name="Changes" comment="Hi test 2!">
-      <change afterPath="$PROJECT_DIR$/src/main/GamePanel.java" afterDir="false" />
+    <list default="true" id="6cb770d2-b058-44ac-a0e7-d36e6c614190" name="Changes" comment="Almost finished the first part">
+      <change afterPath="$PROJECT_DIR$/src/inputs/KeyboardInputs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inputs/MouseInputs.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/GamePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/GamePanel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/GameWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/GameWindow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/MainClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,13 +35,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.MainClass" />
@@ -91,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676547419752</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Almost finished the first part">
+      <created>1676548756198</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1676548756198</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -108,6 +116,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Test" />
     <MESSAGE value="Hi test 2!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hi test 2!" />
+    <MESSAGE value="Almost finished the first part" />
+    <option name="LAST_COMMIT_MESSAGE" value="Almost finished the first part" />
   </component>
 </project>
