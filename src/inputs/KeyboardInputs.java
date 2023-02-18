@@ -42,6 +42,6 @@ public class KeyboardInputs implements KeyListener {
 
     @Override
     public void keyReleased(KeyEvent e) {
-        System.out.println("A key has been released");
+
     }
 }

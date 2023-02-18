@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6cb770d2-b058-44ac-a0e7-d36e6c614190" name="Changes" comment="Almost finished the first part">
-      <change afterPath="$PROJECT_DIR$/src/inputs/KeyboardInputs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inputs/MouseInputs.java" afterDir="false" />
+    <list default="true" id="6cb770d2-b058-44ac-a0e7-d36e6c614190" name="Changes" comment="This has been the second Episode, I have added Inputs to mouse and WASD">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inputs/KeyboardInputs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inputs/KeyboardInputs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inputs/MouseInputs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inputs/MouseInputs.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Game.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/GamePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/GamePanel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/GameWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/GameWindow.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676548756198</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="This has been the second Episode, I have added Inputs to mouse and WASD">
+      <created>1676645404380</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1676645404380</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -117,6 +123,7 @@
     <MESSAGE value="First Test" />
     <MESSAGE value="Hi test 2!" />
     <MESSAGE value="Almost finished the first part" />
-    <option name="LAST_COMMIT_MESSAGE" value="Almost finished the first part" />
+    <MESSAGE value="This has been the second Episode, I have added Inputs to mouse and WASD" />
+    <option name="LAST_COMMIT_MESSAGE" value="This has been the second Episode, I have added Inputs to mouse and WASD" />
   </component>
 </project>
